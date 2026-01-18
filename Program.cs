@@ -39,6 +39,16 @@ namespace COMP003A.Assignment1
             Console.WriteLine("28. I have been to Bahrain");
             Console.WriteLine("29. I have been to Malaysia");
             Console.WriteLine("30. I have been to Hawaii a few times and once for vacation");
+            Console.WriteLine("31. I think wakatime is still having issues on my MAC, its showing 2 minutes but the time is not updating.");
+            Console.WriteLine("32. I Want to move to the mid west somewhere quiet");
+            Console.WriteLine("33. I enjoy walking my dogs with my wife");
+            Console.WriteLine("34. I used to go airsofting often before I joined the military");
+            Console.WriteLine("35. I enjoy some anime but mostly mainstream stuff");
+            Console.WriteLine("36. I enjoy HTML and CSS");
+            Console.WriteLine("37. I have a better time learning when I understand the why behind the solutions");
+            Console.WriteLine("38. I have not yet nailed down proper typing to where I can completely look away while typing");
+            Console.WriteLine("39. I have a calc test on tuesday and I havent taken a math class in 3 years");
+            Console.WriteLine("40. I was stationed in San Diego longest");
         }
     }
 }
