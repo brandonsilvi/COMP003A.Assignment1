@@ -29,6 +29,16 @@ namespace COMP003A.Assignment1
             Console.WriteLine("18. I was a Machinist Mate in the navy");
             Console.WriteLine("19. I want to work in the cybersecurity field");
             Console.WriteLine("20. I was born on St patties day");
+            Console.WriteLine("21. I run a dual monitor setup at home");
+            Console.WriteLine("22. My favorite game series is Fallout");
+            Console.WriteLine("23. I work on base");
+            Console.WriteLine("24. my job is cryogenics distribution");
+            Console.WriteLine("25. I am using VR&E for college");
+            Console.WriteLine("26. I have deployed once");
+            Console.WriteLine("27. I have been to Dubai");
+            Console.WriteLine("28. I have been to Bahrain");
+            Console.WriteLine("29. I have been to Malaysia");
+            Console.WriteLine("30. I have been to Hawaii a few times and once for vacation");
         }
     }
 }
