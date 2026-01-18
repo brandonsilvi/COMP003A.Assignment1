@@ -8,3 +8,6 @@ namespace COMP003A.Assignment1
         static void Main(string[] args)
     }
 }
+
+// test wakatime tesssssstingggggg
+//wakatime test#2
