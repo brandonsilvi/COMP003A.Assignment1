@@ -69,7 +69,16 @@ namespace COMP003A.Assignment1
             Console.WriteLine("58. I would like to be more involved in politics but have very little freetime as is");
             Console.WriteLine("59. I am currently taking 19 credits while working full time");
             Console.WriteLine("60. I am also doing some work for my mom cleaning up her website with the skills I learned in my last 3 COMP classes");
-            
+            Console.WriteLine("61. I enjoy spending time with my grandparents in Maine");
+            Console.WriteLine("62. I think my favorite place to drive to is Big Sur");
+            Console.WriteLine("63. I have been currently enjoying the game Arc Raiders");
+            Console.WriteLine("64. I have traveled to Qatar");
+            Console.WriteLine("65. I had my wedding in Cebu");
+            Console.WriteLine("66. I have been to the Philippines 2 times");
+            Console.WriteLine("67. I have a bad knee");
+            Console.WriteLine("68. I used to rollerskate, ice skate, and inline skate");
+            Console.WriteLine("69. I struggle to remember peoples names");
+            Console.WriteLine("70. I enjoying watching the Phillip Defranco Show on youtube");
         }
     }
 }
