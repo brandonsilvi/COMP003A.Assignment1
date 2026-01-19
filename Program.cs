@@ -89,6 +89,17 @@ namespace COMP003A.Assignment1
             Console.WriteLine("78. I enjoy working out with my wife");
             Console.WriteLine("79. I have had LASIK done to fix my vision");
             Console.WriteLine("80. I joined the navy and learned I had bad eyesight during bootcamp when I had my first eye exam");
+            Console.WriteLine("81. I think Wakitime is wokring I finally saw it update");
+            Console.WriteLine("82. I enjoy learning about history");
+            Console.WriteLine("83. I want to work as an instructor for a navy or air force school");
+            Console.WriteLine("84. I decided on cycbersecurity so I could have the chance at working remotely");
+            Console.WriteLine("85. I dont like seafood");
+            Console.WriteLine("86. I do enjoy salmon sashimi though");
+            Console.WriteLine("87. I have worked as a virtual moving surveyor");
+            Console.WriteLine("88. I have driven cross country");
+            Console.WriteLine("89. I drove 18 hours straight from Bangor to Lemoore the day I was released");
+            Console.WriteLine("90. I enjoy assembling computers and some electronics");
+            
         }
     }
 }
