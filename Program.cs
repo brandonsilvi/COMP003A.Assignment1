@@ -99,6 +99,16 @@ namespace COMP003A.Assignment1
             Console.WriteLine("88. I have driven cross country");
             Console.WriteLine("89. I drove 18 hours straight from Bangor to Lemoore the day I was released");
             Console.WriteLine("90. I enjoy assembling computers and some electronics");
+            Console.WriteLine("91. I enjoy camping");
+            Console.WriteLine("92. I enjoy swimming");
+            Console.WriteLine("93. I got medically seperated from the military");
+            Console.WriteLine("94. I struggle with quitting nicotine and still use the gum");
+            Console.WriteLine("95. I only drink during special occasions");
+            Console.WriteLine("96. I enjoy fasting one day a week to help reduce appetite overtime");
+            Console.WriteLine("97. My favorite lift is the standard Bicep curl with the support bar for stability");
+            Console.WriteLine("98. I am slowly working on my google cybersecurity certificate");
+            Console.WriteLine("99. I have only gotten 1 B here at lemoore college");
+            Console.WriteLine("100. I enjoy learning");
             
         }
     }
