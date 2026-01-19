@@ -59,6 +59,17 @@ namespace COMP003A.Assignment1
             Console.WriteLine("48. I enjoy theatre and more specifically the backend, I spent a few years working as a stage manager");
             Console.WriteLine("49. I occasionally go to Pasadena to visit family");
             Console.WriteLine("50. I want to live overseas in both europe and the Philippines during my lifetime");
+            Console.WriteLine("51. I was never taught how to cook so I learned entirely from youtube an d winging it");
+            Console.WriteLine("52. I cant sleep with socks on");
+            Console.WriteLine("53. I installed flooring in my own home, is was LVP");
+            Console.WriteLine("54. I like most music but normally only listen to music when I am lifting");
+            Console.WriteLine("55. I have blue eyes");
+            Console.WriteLine("56. I have size 13 feet");
+            Console.WriteLine("57. I get stressed out when I have notifications or unread emails");
+            Console.WriteLine("58. I would like to be more involved in politics but have very little freetime as is");
+            Console.WriteLine("59. I am currently taking 19 credits while working full time");
+            Console.WriteLine("60. I am also doing some work for my mom cleaning up her website with the skills I learned in my last 3 COMP classes");
+            
         }
     }
 }
