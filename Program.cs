@@ -79,6 +79,16 @@ namespace COMP003A.Assignment1
             Console.WriteLine("68. I used to rollerskate, ice skate, and inline skate");
             Console.WriteLine("69. I struggle to remember peoples names");
             Console.WriteLine("70. I enjoying watching the Phillip Defranco Show on youtube");
+            Console.WriteLine("71. I started COMP with 0 experience with programming and I definitely felt challenged in JavaScript");
+            Console.WriteLine("72. I enjoy watchting true crime");
+            Console.WriteLine("73. I have owned 5 cars");
+            Console.WriteLine("74. I enjoy driving the Mazda Miata, the older ones, with bucket seats only");
+            Console.WriteLine("75. I am registered as an independent voter");
+            Console.WriteLine("76. I am certified as a specialist for heat exchanger repairs");
+            Console.WriteLine("77. I am also certified as a valve maintenance expert");
+            Console.WriteLine("78. I enjoy working out with my wife");
+            Console.WriteLine("79. I have had LASIK done to fix my vision");
+            Console.WriteLine("80. I joined the navy and learned I had bad eyesight during bootcamp when I had my first eye exam");
         }
     }
 }
