@@ -49,6 +49,16 @@ namespace COMP003A.Assignment1
             Console.WriteLine("38. I have not yet nailed down proper typing to where I can completely look away while typing");
             Console.WriteLine("39. I have a calc test on tuesday and I havent taken a math class in 3 years");
             Console.WriteLine("40. I was stationed in San Diego longest");
+            Console.WriteLine("41. I was last stationed in Bangor Washington for my final shore duty");
+            Console.WriteLine("42. I enjoy cooking");
+            Console.WriteLine("43. I have recently gotten into crock pot meal prepping");
+            Console.WriteLine("44. I used to ride a ripstick");
+            Console.WriteLine("45. I enjoyed being stationed in South Carolina the most");
+            Console.WriteLine("46. I enjoy traveling with my wife and dogs");
+            Console.WriteLine("47. I am considering buying an RV when my wife gets out so we can go travel the US for a time");
+            Console.WriteLine("48. I enjoy theatre and more specifically the backend, I spent a few years working as a stage manager");
+            Console.WriteLine("49. I occasionally go to Pasadena to visit family");
+            Console.WriteLine("50. I want to live overseas in both europe and the Philippines during my lifetime");
         }
     }
 }
